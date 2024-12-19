@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6x^-!^^+1=qsg453##e4ib^16f1$0#=89m%n5n3mll_+tftp@$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pocbeanstalk-django-demo.eba-rxmspfm2.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['pocbeanstalk-django-demo.eba-rxmspfm2.us-east-1.elasticbeanstalk.com','pocbeanstalk-django.sintatica.tech']
 
 
 # Application definition
